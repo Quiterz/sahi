@@ -1,0 +1,58 @@
+{
+  "sahi.com": {
+    "content": [
+      {
+        "text": "{\"search_term\":\"sahi.com\",\"search_in\":[\"class\"],\"offset\":0,\"count\":0,\"scanned\":13092,\"max_scan_reached\":false,\"items\":[]}",
+        "type": "text"
+      }
+    ]
+  },
+  "baseUrl": {
+    "content": [
+      {
+        "text": "{\"search_term\":\"baseUrl\",\"search_in\":[\"class\"],\"offset\":0,\"count\":0,\"scanned\":13092,\"max_scan_reached\":false,\"items\":[]}",
+        "type": "text"
+      }
+    ]
+  },
+  "websocket": {
+    "content": [
+      {
+        "text": "{\"search_term\":\"websocket\",\"search_in\":[\"class\"],\"offset\":0,\"count\":16,\"scanned\":13092,\"max_scan_reached\":false,\"items\":[{\"fqn\":\"com.newrelic.agent.android.instrumentation.okhttp3.NewRelicWebSocketListener\",\"matched_in\":[\"class\"]},{\"fqn\":\"okhttp3.WebSocket\",\"matched_in\":[\"class\"]},{\"fqn\":\"okhttp3.WebSocket.Factory\",\"matched_in\":[\"class\"]},{\"fqn\":\"okhttp3.WebSocketListener\",\"matched_in\":[\"class\"]},{\"fqn\":\"okhttp3.internal.ws.RealWebSocket\",\"matched_in\":[\"class\"]},{\"fqn\":\"okhttp3.internal.ws.RealWebSocket.Close\",\"matched_in\":[\"class\"]},{\"fqn\":\"okhttp3.internal.ws.RealWebSocket.Companion\",\"matched_in\":[\"class\"]},{\"fqn\":\"okhttp3.internal.ws.RealWebSocket.Message\",\"matched_in\":[\"class\"]},{\"fqn\":\"okhttp3.internal.ws.RealWebSocket.Streams\",\"matched_in\":[\"class\"]},{\"fqn\":\"okhttp3.internal.ws.RealWebSocket.WriterTask\",\"matched_in\":[\"class\"]},{\"fqn\":\"okhttp3.internal.ws.WebSocketExtensions\",\"matched_in\":[\"class\"]},{\"fqn\":\"okhttp3.internal.ws.WebSocketExtensions.Companion\",\"matched_in\":[\"class\"]},{\"fqn\":\"okhttp3.internal.ws.WebSocketProtocol\",\"matched_in\":[\"class\"]},{\"fqn\":\"okhttp3.internal.ws.WebSocketReader\",\"matched_in\":[\"class\"]},{\"fqn\":\"okhttp3.internal.ws.WebSocketReader.FrameCallback\",\"matched_in\":[\"class\"]},{\"fqn\":\"okhttp3.internal.ws.WebSocketWriter\",\"matched_in\":[\"class\"]}]}",
+        "type": "text"
+      }
+    ]
+  },
+  "scalper": {
+    "content": [
+      {
+        "text": "{\"search_term\":\"scalper\",\"search_in\":[\"class\"],\"offset\":0,\"count\":0,\"scanned\":13092,\"max_scan_reached\":false,\"items\":[]}",
+        "type": "text"
+      }
+    ]
+  },
+  "trading": {
+    "content": [
+      {
+        "text": "{\"search_term\":\"trading\",\"search_in\":[\"class\"],\"offset\":0,\"count\":0,\"scanned\":13092,\"max_scan_reached\":false,\"items\":[]}",
+        "type": "text"
+      }
+    ]
+  },
+  "order": {
+    "content": [
+      {
+        "text": "{\"search_term\":\"order\",\"search_in\":[\"class\"],\"offset\":0,\"count\":9,\"scanned\":13092,\"max_scan_reached\":false,\"items\":[{\"fqn\":\"co.hyperverge.hyperkyc.ui.config.UIConfig.BorderRadius\",\"matched_in\":[\"class\"]},{\"fqn\":\"com.fasterxml.jackson.annotation.JsonPropertyOrder\",\"matched_in\":[\"class\"]},{\"fqn\":\"com.newrelic.agent.android.sessionReplay.capture.SessionReplayThingyRecorder\",\"matched_in\":[\"class\"]},{\"fqn\":\"org.apache.commons.io.ByteOrderMark\",\"matched_in\":[\"class\"]},{\"fqn\":\"org.apache.commons.io.ByteOrderParser\",\"matched_in\":[\"class\"]},{\"fqn\":\"org.intellij.lang.annotations.JdkConstants.TitledBorderJustification\",\"matched_in\":[\"class\"]},{\"fqn\":\"org.intellij.lang.annotations.JdkConstants.TitledBorderTitlePosition\",\"matched_in\":[\"class\"]},{\"fqn\":\"org.simpleframework.xml.Order\",\"matched_in\":[\"class\"]},{\"fqn\":\"org.simpleframework.xml.core.TreeModel.OrderList\",\"matched_in\":[\"class\"]}]}",
+        "type": "text"
+      }
+    ]
+  },
+  "kyro": {
+    "content": [
+      {
+        "text": "{\"search_term\":\"kyro\",\"search_in\":[\"class\"],\"offset\":0,\"count\":0,\"scanned\":13092,\"max_scan_reached\":false,\"items\":[]}",
+        "type": "text"
+      }
+    ]
+  }
+}

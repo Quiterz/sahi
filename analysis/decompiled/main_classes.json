@@ -1,0 +1,12 @@
+{
+  "id": 6,
+  "result": {
+    "content": [
+      {
+        "text": "{\"package\":\"com.aaritya.sahi_trade_app\",\"total\":4,\"offset\":0,\"limit\":500,\"items\":[\"com.aaritya.sahi_trade_app.DataBinderMapperImpl\",\"com.aaritya.sahi_trade_app.MainActivity\",\"com.aaritya.sahi_trade_app.R\",\"com.aaritya.sahi_trade_app.SahiApplication\"]}",
+        "type": "text"
+      }
+    ]
+  },
+  "jsonrpc": "2.0"
+}

@@ -1,0 +1,8 @@
+# Large binary files & APKs
+apk/
+*.apk
+
+# System / Temporary files
+.DS_Store
+Thumbs.db
+*.tmp
