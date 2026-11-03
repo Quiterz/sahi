@@ -8,18 +8,37 @@
 
 ---
 
+## 📄 Client Proposal Master Document (Single PDF)
+
+👉 **[Download / View Master Client Proposal PDF](./Sahi_Trading_App_Client_Proposal.pdf)** *(1.3 MB, Full-Fledged Multi-Page Enterprise Proposal)*
+
+Includes:
+- **Part 1:** Mandatory Pre-requisites & Government Approvals (SEBI, NSE, BSE, MCX, CDSL, VAPT, Net Worth ₹1 Cr+)
+- **Part 2:** Legal Documentation & Regulatory Readiness Checklist
+- **Part 3:** Decoded 14-Step User KYC & Onboarding Journey (Digio, HyperVerge, Penny Drop, DDPI)
+- **Part 4:** Complete Technical Stack & 12 Flutter Modules (`chart` 60fps canvas, `mscalper_train`, Kyro AI)
+- **Part 5:** Itemized Cost Breakdown (Development, Third-Party APIs, Cloud, Exchange, Compliance, Team)
+- **Part 6:** Strategic Route Comparison: Model A (Own SEBI License) vs Model B (Partner API Model)
+- **Part 7:** Project Roadmap, Milestones & Payment Schedule
+
+---
+
 ## 📑 Repository Structure
 
 ```
 sahi/
 ├── README.md                            # Master overview & index (this file)
+├── Sahi_Trading_App_Client_Proposal.pdf # Master Single PDF for Client Proposal
+├── Sahi_Trading_App_Client_Proposal.html# HTML Source for the PDF Document
+├── generate_proposal_pdf.py             # Script to regenerate PDF via Chrome Headless
 ├── .gitignore                           # Ignores apk/ directory & binaries
 └── analysis/
+    ├── Sahi_Trading_App_Client_Proposal.pdf # Mirror copy of Master PDF
     ├── 01_app_overview.md               # Product identity, features, and regulatory breakdown
     ├── 02_technical_architecture.md     # Backend microservices, OMS, RMS, and WebSocket design
     ├── 03_build_steps.md                # 10-phase detailed engineering master plan
     ├── 04_cost_summary.md               # Quick phase-wise capital investment summary
-    ├── 05_build_roadmap.md              # Code-level roadmap (Flutter Canvas, Go OMS, WebSocket)
+    ├── 05_build_roadmap.md              # Detailed implementation guide with code samples
     ├── 06_libraries_stack.md            # Detected libraries and recommended production tech stack
     ├── 07_cost_breakdown.md             # 11 comprehensive cost tables (from legal to marketing)
     ├── 08_decompiled_deep_findings.md   # [BREAKTHROUGH] Decompiled Flutter structure, Digio & HyperVerge
@@ -85,3 +104,4 @@ sahi/
 ---
 
 *Analysis performed using static and headless decompilation tools (`jadx-headless-mcp`). All trademarks and brand names belong to their respective owners.*
+

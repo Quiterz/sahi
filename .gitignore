@@ -6,3 +6,6 @@ apk/
 .DS_Store
 Thumbs.db
 *.tmp
+
+config.bat
+node_modules
